@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🧑‍💻 I'm a software engineer working at Google Kirkland office, previously I was a quant in financial industry. Here is my CV.
-- 🏠 Currently based in Bellevue and my hometown is Changsha, Hunan, China.
+- 🏠 Currently based in Bellevue and I am from Changsha, Hunan, China.
 - 🌱 I’m currently learning Golang and working on projects related with Programming Langugage Processing
 - 🏅 Kaggle Competitions Master in the global top 400 ([vincentwang25](https://www.kaggle.com/vincentwang25))
 - 🤖 Experience in time-series prediction, financial modeling, NLP and computer vision
