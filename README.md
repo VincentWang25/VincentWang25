@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🧑‍💻 I'm a software engineer working at Google Kirkland office, previously I was a quant in financial industry. Here is my CV.
+- 🧑‍💻 I'm a software engineer working at Google Kirkland office, previously I was a quant in financial industry.
 - 🏠 Currently based in Bellevue and I am from Changsha, Hunan, China.
-- 🌱 I’m currently learning Golang and working on projects related with Programming Langugage Processing
+- 🌱 I’m currently working on projects related with Programming Langugage Processing and Reinforcement Learning.
 - 🏅 Kaggle Competitions Master in the global top 400 ([vincentwang25](https://www.kaggle.com/vincentwang25))
 - 🤖 Experience in time-series prediction, financial modeling, NLP and computer vision
 - 🤔 I’m (E/I) NTJ (50% E & 50%I) <!-- with Top 5 strength (LEARNER | RESPONSIBILITY | ACHIEVER | FOCUS | ANALYTICAL) according to [CliftonStrengths](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) test -->
